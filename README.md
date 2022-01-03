@@ -8,7 +8,11 @@ Input
 
 penjelasan algoritma
 
-    masukan nilai N =5
-    gunakan for range (untuk mengulang data dari 1-5)
-    cetak data dan memasukan (random.uniform kurang dari 0.5)
-    jika selesai RUN/jalankan programnya.
+masukan nilai N =5
+gunakan for range (untuk mengulang data dari 1-5)
+cetak data dan memasukan (random.uniform kurang dari 0.5)
+jika selesai RUN/jalankan programnya.
+
+Output
+
+![Output Latihan1](https://user-images.githubusercontent.com/96425663/147933174-767c4f5b-e8a2-4508-84cc-45b7b09cf861.jpg)
