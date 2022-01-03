@@ -22,7 +22,7 @@ OUTPUT
 
 #Latihan2
 
-INPUT
+INPUT & OUTPUT
 
 ![input Latihan2](https://user-images.githubusercontent.com/96425663/147933651-e3410868-6a90-431c-a606-09dc15905f6a.jpg)
 
@@ -33,6 +33,10 @@ Fungsi max di pemrograman python Fungsi max() adalah fungsi bulid-in untuk menca
 Perulangan while Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
 Break, pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu.
+
+INPUT & OUTPUT
+
+![Pycharm 2](https://user-images.githubusercontent.com/96425663/147934340-6687ba30-c9be-4026-b319-04caf29b199f.jpg)
 
 #Program1
 
