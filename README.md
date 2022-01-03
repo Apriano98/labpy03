@@ -24,7 +24,10 @@ OUTPUT
 
 INPUT
 
+![input Latihan2](https://user-images.githubusercontent.com/96425663/147933651-e3410868-6a90-431c-a606-09dc15905f6a.jpg)
+
 PENJELASAN ALGORITMA
+
 Fungsi max di pemrograman python Fungsi max() adalah fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
 
 Perulangan while Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
