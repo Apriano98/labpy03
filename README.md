@@ -38,7 +38,10 @@ Break, pernyataan break digunakan untuk menghentikan proses perulangan pada kond
 
 INPUT
 
+![input Program1](https://user-images.githubusercontent.com/96425663/147933758-34016278-f07f-4669-acf2-e5f2a03a1d02.jpg)
+
 PENJELASAN ALGORITMA
+
 Perulangan for Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
 Menggunakan kondisional if Seperti halnya bahasa pemrograman yang lain, bahasa python juga mempunyai percabangan berupa if yaitu bila suatu kondisi tertentu tercapa maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
