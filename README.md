@@ -4,6 +4,8 @@ Latihan1
 
 Input
 
+![Input Latihan1](https://user-images.githubusercontent.com/96425663/147933017-d14518ba-3aab-4dde-abdf-2fbf1dc7c7ea.jpg)
+
 penjelasan algoritma
 
     masukan nilai N =5
